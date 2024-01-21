@@ -1,9 +1,14 @@
 ﻿.idea
 .vs
+.vsconfig
 *.sln
+*htm
+*user
+
 Plugins/
 DerivedDataCache/
 Intermediate/
 Saved/
 Binaries/
 Build/
+Package/
